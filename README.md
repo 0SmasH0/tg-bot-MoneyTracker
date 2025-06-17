@@ -36,7 +36,7 @@ DB_LITE=sqlite+aiosqlite:///путь_к_вашей_базе.db
 
 ```env
 TOKEN=123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11
-DB_LITE=sqlite+aiosqlite:///moneytracker.sqlite
+DB_LITE=sqlite+aiosqlite:///moneytracker.db
 ```
 
 3. **Установите зависимости:**
