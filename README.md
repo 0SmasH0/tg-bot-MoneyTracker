@@ -18,7 +18,7 @@
 1. **Клонируйте репозиторий:**
 
 ```bash
-git clone https://github.com/username/moneytracker-bot.git
+git clone https://github.com/0SmasH0/tg-bot-MoneyTracker.git
 cd moneytracker-bot
 ```
 
